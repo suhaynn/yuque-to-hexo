@@ -48,6 +48,8 @@ hexo 文章开头需要固定格式，需要文章标题和日期，这里我多
 ```bash
 hexo g & hexo s
 ```
+![image](https://github.com/user-attachments/assets/0ebdcbf2-0509-45e3-bc8d-c619035390f1)
+可以正常访问
 
 ![image](https://github.com/user-attachments/assets/5b0efc59-d0d9-4498-80e6-fd7d74216bf5)
 
